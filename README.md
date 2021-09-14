@@ -10,7 +10,6 @@ I love also people and the world that we can have inside, <br>although sometimes
 :cook: <br><br>
 You can find more about me on my personal blogs webistes:<br>
 
-<li> https://www.peopleinside.it <br>
 <li> https://www.marcoborla.com
 
 <!--
