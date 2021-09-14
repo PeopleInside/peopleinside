@@ -1,11 +1,17 @@
 ### Hi there 👋
 
 🌱<br>
-My name is **Marco** and I'm from Italy.<br>
+My name is **Marco** and I'm from Italy.<br><br>
 I can be seen as a web, security and open source passionate.
 
-:heart_decoration: <br>
+:heart_decoration: <br><br>
 I love also people and the world that we can have inside, <br>although sometimes it is not easy to understand the differences from us. 
+
+:cook: <br>
+You can find more about me on my personal blog webistes:<br>
+
+<li> https://wwww.peopleinside.it <br><br>
+<li> https://www.marcoborla.com
 
 <!--
 **PeopleInside/peopleinside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
