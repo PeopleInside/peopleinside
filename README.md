@@ -8,7 +8,7 @@ I can be seen as a web, security and open source passionate.
 I love also people and the world that we can have inside, <br>although sometimes it is not easy to understand the differences from us. 
 
 :cook: <br><br>
-You can find more about me on my personal blogs webistes:<br>
+You can find more about me on my personal blog webistes:<br>
 
 <li> https://www.marcoborla.com
 
